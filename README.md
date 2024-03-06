@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Kalab
 ####  I am currently pursuing BSC in Computer Science from Jimma University, Jimma.  My area of interest lies in developing websites, android apps and cyber security.
-![ I am currently pursuing BSC in Computer Science from Jimma University, Jimma.  My area of interest lies in developing websites, android apps and cyber security.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / LINUX / PYTHON / PHP
